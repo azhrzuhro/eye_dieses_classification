@@ -9,10 +9,11 @@ Retinopati Diabetik merupakan komplikasi dari diabetes yang memengaruhi pembuluh
 Glaukoma adalah sekelompok kondisi yang merusak saraf optik, umumnya terkait dengan peningkatan tekanan dalam mata. Penyakit ini dapat menyebabkan kehilangan penglihatan permanen bila tidak terdeteksi sejak awal. Memahami gejala dan faktor risiko glaukoma dapat mendorong individu untuk mencari bantuan medis lebih cepat sehingga menurunkan risiko komplikasi yang lebih parah
 
 
-Tentang Proyek
+### Tentang Proyek
+
 Proyek ini bertujuan untuk mengembangkan model machine learning yang mampu mengklasifikasikan penyakit mata ke dalam empat kategori: normal, katarak, retinopati diabetik, dan glaukoma. Dengan memanfaatkan dataset berisi lebih dari 4.000 gambar, model dilatih untuk mengenali dan membedakan tiap kondisi dengan tingkat akurasi yang tinggi. Teknik seperti augmentasi data digunakan untuk memperkaya variasi data pelatihan, sementara fine-tuning diterapkan untuk mengoptimalkan kinerja model.
 
-Kesimpulan
+### Kesimpulan
 Proyek Klasifikasi Penyakit Mata ini menunjukkan potensi besar machine learning dalam mendukung diagnosis penyakit mata, dengan akurasi validasi mencapai 92%. Meski demikian, terdapat peluang untuk meningkatkan performa model agar lebih andal terhadap variasi data dunia nyata.
 
 Beberapa langkah yang dapat dilakukan untuk meningkatkan performa model antara lain:
